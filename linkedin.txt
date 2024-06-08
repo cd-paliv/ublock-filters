@@ -1,0 +1,13 @@
+# # Linkedin
+# Hide Try Premium in messages view
+linkedin.com##.artdeco-card
+
+# Hide Try premium in My network view
+linkedin.com##.mn-sales-navigator-upsell
+
+# Hide Try Premium in Jobs view
+linkedin.com##.premium-accent-bar
+
+# Hide Try Premium in Feed view
+linkedin.com##a.app-aware-link:nth-child(3)
+linkedin.com##.premium-upsell-link

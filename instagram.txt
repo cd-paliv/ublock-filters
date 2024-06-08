@@ -1,0 +1,9 @@
+# # Instagram
+# Remove Reels
+instagram.com##.x1xgvd2v > div:nth-child(2) > div:nth-child(4)
+
+# Remove Threads
+instagram.com##.xdy9tzy
+
+# Remove Notes above messages
+instagram.com##.xhjk10j

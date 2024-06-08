@@ -1,0 +1,3 @@
+# # Google
+# Hide login with Google popup
+accounts.google.com/gsi/iframe

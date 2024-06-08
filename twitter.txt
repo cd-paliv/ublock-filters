@@ -1,0 +1,14 @@
+# # Twitter/X
+# Filter Lists, Premium and Grok
+twitter.com##header nav[role=navigation] > a:is([aria-label="Listas"], [aria-label="Premium"], [aria-label="Grok"])
+twitter.com##header nav[role=navigation] > a:is([aria-label="Lists"], [aria-label="Premium"], [aria-label="Grok"])
+
+x.com##header nav[role=navigation] > a:is([aria-label="Listas"], [aria-label="Premium"], [aria-label="Grok"])
+x.com##header nav[role=navigation] > a:is([aria-label="Lists"], [aria-label="Premium"], [aria-label="Grok"])
+
+# Remove 'Subscribe to Premium' box
+twitter.com##.r-vacyoi > div:nth-child(3)
+x.com##.r-vacyoi > div:nth-child(3)
+
+# Remove 'For You' section in banner
+twitter.com##nav.r-1igl3o0 > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1)

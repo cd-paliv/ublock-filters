@@ -1,0 +1,9 @@
+# # Stackoverflow
+# Remove full sidebar
+stackoverflow.com##sidebar
+
+# Remove announcement banner
+stackoverflow.com##announcement-banner
+
+# Remove Teams from left bar
+stackoverflow.com##.js-freemium-cta

@@ -1,0 +1,10 @@
+# # Whatsapp
+# Remove Status/Estados
+web.whatsapp.com##div.x1cy8zhl > div:nth-child(1) > div:nth-child(2)
+
+# # Github
+# Remove 'Latest changes' and 'Explore repositories' boxes
+github.com##.feed-right-sidebar
+
+# Remove 'Updates to your homepage feed'
+github.com##.js-notice
